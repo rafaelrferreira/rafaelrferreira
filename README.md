@@ -1,13 +1,14 @@
 <h1 align="center">Hi, I'm Rafael Reis. 👋😄</h1>
 <h3 align="center">A Web Developer focused on #html #css #javascript #sql #angular #vue #react #nodejs #fullstack</h3>
 
+[![Gmail Badge](https://img.shields.io/badge/-rafaelrferreira@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rafaelrferreira@gmail.com)](mailto:rafaelrferreira@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-rafaelrferreira-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelrferreira/)](https://www.linkedin.com/in/rafaelrferreira/) [![Github Badge](https://img.shields.io/badge/-rafaelrferreira-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rafaelrferreira/)](https://www.github.com/rafaelrferreira/) [![Twitter Badge](https://img.shields.io/badge/-rafaelrferreira-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/rafaelrferreira/)](https://www.twitter.com/rafaelrferreira/)
+
 ### Javascript & NodeJS Lover | UX, Web Interactivity, Game Development, all kind of fun stuff. #CreativeCoder #Entrepreneur #Gamer
 
 Here are some ideas to get you started:
 
 🔭 I’m currently working on GuruEsporte
-
-👨‍💻 All of my projects are available at GitHub
 
 💬 Ask me about JavaScript, HTML, CSS, NodeJS
 
@@ -16,8 +17,6 @@ Here are some ideas to get you started:
 angularjs css3 html5 javascript sql nodejs
 
 https://www.gitshowcase.com/rafaelrferreira
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rafaelrferreira&show_icons=true" alt="maykbrito" /> </p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelrferreira&show_icons=true&theme=dracula">

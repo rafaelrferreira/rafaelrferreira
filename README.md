@@ -12,11 +12,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on GuruEsporte
 
-💬 Ask me about JavaScript, HTML, CSS, NodeJS
-
-📫 How to reach me rafaelrferreira@gmail.com
-
-angularjs css3 html5 javascript sql nodejs
+💬 Ask me about JavaScript, HTML, CSS, NodeJS, AngularJS
 
 https://www.gitshowcase.com/rafaelrferreira
 

@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Rafael Reis. 👋😄</h1>
-<h3 align="center">A Web Developer focused on #html #css #javascript #sql #angular #vue #react #nodejs #fullstack</h3>
+<h1>Hi, I'm Rafael Reis. 👋😄</h1>
+<h3>A Web Developer focused on #html #css #javascript #sql #angular #vue #react #nodejs #fullstack</h3>
 
 
 [![Gmail Badge](https://img.shields.io/badge/-rafaelrferreira@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rafaelrferreira@gmail.com)](mailto:rafaelrferreira@gmail.com) 

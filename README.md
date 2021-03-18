@@ -1,8 +1,10 @@
 <h1 align="center">Hi, I'm Rafael Reis. 👋😄</h1>
 <h3 align="center">A Web Developer focused on #html #css #javascript #sql #angular #vue #react #nodejs #fullstack</h3>
 
-[![Gmail Badge](https://img.shields.io/badge/-rafaelrferreira@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rafaelrferreira@gmail.com)](mailto:rafaelrferreira@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-rafaelrferreira-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelrferreira/)](https://www.linkedin.com/in/rafaelrferreira/) [![Github Badge](https://img.shields.io/badge/-rafaelrferreira-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rafaelrferreira/)](https://www.github.com/rafaelrferreira/) [![Twitter Badge](https://img.shields.io/badge/-rafaelrferreira-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/rafaelrferreira/)](https://www.twitter.com/rafaelrferreira/)
+<div align="center">
+  [![Gmail Badge](https://img.shields.io/badge/-rafaelrferreira@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rafaelrferreira@gmail.com)](mailto:rafaelrferreira@gmail.com) 
+  [![Linkedin Badge](https://img.shields.io/badge/-rafaelrferreira-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelrferreira/)](https://www.linkedin.com/in/rafaelrferreira/) [![Github Badge](https://img.shields.io/badge/-rafaelrferreira-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rafaelrferreira/)](https://www.github.com/rafaelrferreira/) [![Twitter Badge](https://img.shields.io/badge/-rafaelrferreira-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/rafaelrferreira/)](https://www.twitter.com/rafaelrferreira/)
+</div>
 
 ### Javascript & NodeJS Lover | UX, Web Interactivity, Game Development, all kind of fun stuff. #CreativeCoder #Entrepreneur #Gamer
 

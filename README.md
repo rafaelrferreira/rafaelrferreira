@@ -5,6 +5,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-rafaelrferreira@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rafaelrferreira@gmail.com)](mailto:rafaelrferreira@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-rafaelrferreira-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelrferreira/)](https://www.linkedin.com/in/rafaelrferreira/) [![Github Badge](https://img.shields.io/badge/-rafaelrferreira-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rafaelrferreira/)](https://www.github.com/rafaelrferreira/) [![Twitter Badge](https://img.shields.io/badge/-rafaelrferreira-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/rafaelrferreira/)](https://www.twitter.com/rafaelrferreira/)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-727-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 ### Javascript & NodeJS Lover | UX, Web Interactivity, Game Development, all kind of fun stuff. #CreativeCoder #Entrepreneur #Gamer
 

@@ -44,6 +44,6 @@ https://www.gitshowcase.com/rafaelrferreira
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/anmol098/anmol098/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/rafaelrferreira/rafaelrferreira/master/charts/bar_graph.png) 
 
 

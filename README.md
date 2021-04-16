@@ -42,8 +42,5 @@ https://www.gitshowcase.com/rafaelrferreira
 
 <br />
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/rafaelrferreira/rafaelrferreira/master/charts/bar_graph.png) 
 
 

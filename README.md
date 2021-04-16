@@ -1,5 +1,5 @@
 <h1>Hi, I'm Rafael Reis. 👋😄</h1>
-<h3>A Web Developer focused on #C#(csharp) #javascript #nodejs</h3>
+<h3>A Web Developer focused on C#(csharp), javascript, nodejs</h3>
 
 
 [![Gmail Badge](https://img.shields.io/badge/-rafaelrferreira@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rafaelrferreira@gmail.com)](mailto:rafaelrferreira@gmail.com) 
@@ -10,9 +10,9 @@
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on GuruEsporte
+🔭 I’m currently working on MULTSERV
 
-💬 Ask me about JavaScript, HTML, CSS, NodeJS, AngularJS
+💬 Ask me about C#, JavaScript, HTML, CSS, NodeJS, AngularJS
 
 https://www.gitshowcase.com/rafaelrferreira
 

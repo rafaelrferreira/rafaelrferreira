@@ -4,12 +4,6 @@ Javascript & NodeJS Lover | UX, Web Interactivity, Game Development, all kind of
 
 <br />
 
-<p align="center">
-<a href="https://app.daily.dev/rafaelrferreira"><img src="https://api.daily.dev/devcards/a0d75da594ef4b9baac1654b68e4d482.png?r=iba" width="400" alt="Rafael Reis Ferreira's Dev Card"/></a>
-</p>
-
-<br />
-
 [![Gmail Badge](https://img.shields.io/badge/-rafaelrferreira@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rafaelrferreira@gmail.com)](mailto:rafaelrferreira@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-rafaelrferreira-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelrferreira/)](https://www.linkedin.com/in/rafaelrferreira/) [![Github Badge](https://img.shields.io/badge/-rafaelrferreira-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rafaelrferreira/)](https://www.github.com/rafaelrferreira/) [![Twitter Badge](https://img.shields.io/badge/-rafaelrferreira-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/rafaelrferreira/)](https://www.twitter.com/rafaelrferreira/)
 <p align=left> <img src=https://komarev.com/ghpvc/?username=rafaelrferreira alt=rafaelrferreira /> </p>
@@ -54,6 +48,10 @@ https://www.gitshowcase.com/rafaelrferreira
 </p>
 
 <br />
+
+<p align="center">
+<a href="https://app.daily.dev/rafaelrferreira"><img src="https://api.daily.dev/devcards/a0d75da594ef4b9baac1654b68e4d482.png?r=iba" width="400" alt="Rafael Reis Ferreira's Dev Card"/></a>
+</p>
 
 
 

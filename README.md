@@ -3,7 +3,11 @@
 Javascript & NodeJS Lover | UX, Web Interactivity, Game Development, all kind of fun stuff. #CreativeCoder #Entrepreneur #Gamer 
 
 <br />
+
+<p align="center">
 <a href="https://app.daily.dev/rafaelrferreira"><img src="https://api.daily.dev/devcards/a0d75da594ef4b9baac1654b68e4d482.png?r=iba" width="400" alt="Rafael Reis Ferreira's Dev Card"/></a>
+</p>
+
 <br />
 
 [![Gmail Badge](https://img.shields.io/badge/-rafaelrferreira@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rafaelrferreira@gmail.com)](mailto:rafaelrferreira@gmail.com) 

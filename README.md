@@ -14,15 +14,7 @@ Javascript & NodeJS Lover #CreativeCoder #Entrepreneur #Gamer
 
 <br />
 
-<p align="center">
-<a href="https://codepen.io/rafaelrferreira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://twitter.com/rafaelrferreira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rafaelrferreira" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/rafaelrferreira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rafaelrferreira" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/rafaelrferreira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="rafaelrferreira" height="20" width="20" /></a>
-<a href="https://codesandbox.com/rafaelrferreira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="rafaelrferreira" height="20" width="20" /></a>
-<a href="https://fb.com/rafaelrferreira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rafaelrferreira" height="20" width="20" /></a>
-<a href="https://instagram.com/rafarf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rafarf" height="20" width="20" /></a>
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelrferreira&theme=monokai)
 
 
 

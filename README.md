@@ -15,8 +15,6 @@ Currently, I'm working at MULTSERV, as Software Developer, where I'm focusing on
 
 <br/>  
 
-
-
 ### Skills  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
@@ -35,6 +33,9 @@ Currently, I'm working at MULTSERV, as Software Developer, where I'm focusing on
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
 </div>
+<br/>  
+
+<img src="https://github-readme-stats.vercel.app/api?username=rafaelrferreira&show_icons=true&count_private=true&hide_border=true" align="left" />
 <br />
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelrferreira&theme=monokai)

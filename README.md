@@ -33,6 +33,9 @@ Currently, I'm working at MULTSERV, as Software Developer, where I'm focusing on
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
 </div>
+
+</td><td valign="top" width="50%">
+</td></tr></table>
 <br />
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelrferreira&theme=monokai)

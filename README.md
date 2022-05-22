@@ -15,6 +15,10 @@ Currently, I'm working at MULTSERV, as Software Developer, where I'm focusing on
 
 <br/>  
 
+<table><tr><td valign="top" width="50%">
+
+
+
 ### Skills  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
@@ -35,6 +39,9 @@ Currently, I'm working at MULTSERV, as Software Developer, where I'm focusing on
 </div>
 
 </td><td valign="top" width="50%">
+
+
+
 </td></tr></table>
 <br />
 

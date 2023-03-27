@@ -1,8 +1,8 @@
 <h1>Hi, I'm Rafael Reis. 👋😄</h1>
 
-I'm an Software Engineer, and I spend most of my time programming in C#, JavaScript and Node.js. I constantly exploring new technologies, trying out new stacks and going deep the ones that i know. I enjoy designing simple intuitive UIs and data scraping (Puppeteer, Playwright & Chromeless) bots. #CreativeCoder #Entrepreneur #Gamer 
+I'm an Software Engineer, and I spend most of my time programming in .NET/C#, JavaScript and Node.js. I constantly exploring new technologies, trying out new stacks and going deep the ones that i know. I enjoy designing simple intuitive UIs and data scraping (Puppeteer, Playwright & Chromeless) bots. #CreativeCoder #Entrepreneur #Gamer 
 
-Currently, I'm working at MULTSERV, as Software Developer, where I'm focusing on JavaScript and C#. 
+Currently, I'm working at MULTSERV, as Software Developer, where I'm focusing on JavaScript and .NET/C#. 
 
 <br />
 
